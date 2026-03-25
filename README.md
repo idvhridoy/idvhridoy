@@ -126,7 +126,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hridoythebest&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hridoythebest&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=idvhridoy&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🎖️ HacktoberFest Badges
 [![An image of @hridoythebest's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hridoythebest)](https://holopin.io/@hridoythebest)
